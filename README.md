@@ -15,3 +15,7 @@
 ## Технологии
 
 HTML5, CSS3 (Flexbox, Grid, позиционирование).
+
+## Ссылка на репозиторий
+
+https://github.com/af1la/ono-tebe-nado-ad
